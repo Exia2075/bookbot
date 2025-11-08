@@ -28,7 +28,7 @@ python3 main.py <path_to_book>
 
 ---
 
-📊 Example Output
+## 📊 Example Output
 
 ```
 ============ BOOKBOT ============
@@ -47,7 +47,7 @@ i: 23927
 
 ---
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 
 Exia2075
 
