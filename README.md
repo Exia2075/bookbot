@@ -1,12 +1,12 @@
-📚 BookBot
+# 📚 BookBot
 
-BookBot is a Python command-line program that analyzes the contents of books. It counts the total number of words, calculates the frequency of each character (ignoring case), and prints a sorted report of the most common alphabetical characters.
+**BookBot** is a Python command-line program that analyzes the contents of books. It counts the total number of words, calculates the frequency of each character (ignoring case), and prints a sorted report of the most common alphabetical characters.
 
 This project was completed as part of Boot.dev’s Python course and demonstrates file handling, string manipulation, dictionaries, sorting, and CLI programming in Python. 🚀
 
 ---
 
-✨ Features
+## ✨ Features
 
 - 📝 Count the total number of words in any text file.
 
@@ -20,29 +20,17 @@ This project was completed as part of Boot.dev’s Python course and demonstrate
 
 ---
 
-🚀 Usage
+## 🚀 Usage
 
-- python3 main.py <path_to_book>
-
----
-
-🗂 Project Structure
-
-bookbot/
-│
-├── books/                     # Text files for analysis
-│   ├── frankenstein.txt
-│   ├── mobydick.txt
-│   └── prideandprejudice.txt
-│
-├── main.py                     # Entry point for BookBot
-├── stats.py                    # Helper functions for word and character counts
-└── README.md                   # Project documentation
+```bash
+python3 main.py <path_to_book>
+```
 
 ---
 
 📊 Example Output
 
+```
 ============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
@@ -55,6 +43,7 @@ o: 24494
 i: 23927
 ...
 ============= END ===============
+```
 
 ---
 
