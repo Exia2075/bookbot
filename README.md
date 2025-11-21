@@ -2,8 +2,6 @@
 
 **BookBot** is a Python command-line program that analyzes the contents of books. It counts the total number of words, calculates the frequency of each character (ignoring case), and prints a sorted report of the most common alphabetical characters.
 
-This project was completed as part of Boot.dev’s Python course and demonstrates file handling, string manipulation, dictionaries, sorting, and CLI programming in Python. 🚀
-
 ---
 
 ## ✨ Features
